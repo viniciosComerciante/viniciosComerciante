@@ -30,7 +30,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/viniciosComerciante">
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciosComerciante&show_icons=true" />
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosComerciante&layout=compact" />
+<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciosComerciante&show_icons=true" />
+<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosComerciante&layout=compact" />
 </a>
 </p>
