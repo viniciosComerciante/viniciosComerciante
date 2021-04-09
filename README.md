@@ -9,7 +9,7 @@
 <br>
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Sim, hoje estou trabalhando como desenvolvedor front-end utilizando principalmente HTML, CSS e JavaScript.</dd>
+<dd>Sim, sempre que possível pego alguns projetos freelancer, mas na maior parte do tempo me dedico aos estudos</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
@@ -23,7 +23,7 @@
 </dd>
 
 <dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
-<dd>Claro, posso te ajudar com as linguagens que conheço e um pouco sobre design.</dd>
+<dd>Claro, posso te ajudar com as linguagens que conheço, se possível.</dd>
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 <dd>Fique a vontade para me chamar no LinkedIn.</dd>
