@@ -1,3 +1,3 @@
 <p align="center">
-  <h3 align="center">Olá a Todos</h3> 👋
+  <h3 align="center">Olá a Todos :wave: </h3> 
 </p>
