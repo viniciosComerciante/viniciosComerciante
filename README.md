@@ -29,8 +29,8 @@
 <dd>Fique a vontade para me chamar no LinkedIn.</dd>
 <br>
 <p align="center">
-<a href="https://github.com/viniciosComerciante">
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciosComerciante&show_icons=true" />
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosComerciante&layout=compact" />
+<a href="https://github.com/rafaasimi">
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaasimi&show_icons=true" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaasimi&layout=compact" />
 </a>
 </p>
