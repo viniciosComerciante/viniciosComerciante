@@ -3,5 +3,5 @@
 </p>
 
 :telescope: **Você está trabalhando?**
-Sim, faço freelancer sempre que posso, mas me tenho me dedicado mais aos estudos. Pretendo também adquirir experiencias com empresas.
+<p>Sim, faço freelancer sempre que posso, mas me tenho me dedicado mais aos estudos. Pretendo também adquirir experiencias com empresas.</p>
 
