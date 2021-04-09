@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/viniciosComerciante" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelzorzenon"/></a>
   <a href="https://github.com/viniciosComerciante" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaasimi"/></a>
-  <a href="https://twitter.com/rafaasimi" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniComerciante"/></a>
+  <a href="https://twitter.com/viniComerciante" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniComerciante"/></a>
 </p>
 
 <br>
