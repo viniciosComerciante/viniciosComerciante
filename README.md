@@ -1,1 +1,1 @@
-<p style="text-align: center;">Olá a todos </p>
+<p style="text-align: center; margin: 0 auto;">Olá a todos </p>
