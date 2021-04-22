@@ -9,7 +9,7 @@
 <br>
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Sim, sempre que possível pego alguns projetos freelancer, mas na maior parte do tempo me dedico aos estudos</dd>
+<dd>Fixamente não, porém sempre que possível pego alguns projetos como freelancer, mas na maior parte do tempo me dedico aos estudos</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
 <dd>Atualmente estou estudando tecnologias web front-end.</dd>
