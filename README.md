@@ -8,6 +8,8 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
 <dd>Fixamente não, porém sempre que possível pego alguns projetos como freelancer, mas na maior parte do tempo me dedico aos estudos</dd>
 
