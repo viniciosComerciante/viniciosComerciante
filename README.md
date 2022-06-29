@@ -14,7 +14,7 @@
 <dd>Atualmente trabalho como fullstack em uma empresa de consultoria em crm, desenvolvendo projetos de integração para nossos clientes utilizando React e Node.</dd>
 
 <dt><strong>🌱 O que você faz atualmente?</strong></dt>
-<dd>Atualmente estou estudando tecnologias web front-end.</dd>
+<dd>Além do trabalho, busco sempre aprender novas tecnologias, tirando um tempinho todos os dias para estudar algo novo ou desenvolver meus projetos pessoais.</dd>
 
 <dt><strong>⚡ Quais Tecnologias você conhece?</strong></dt>
 <dd>
@@ -34,7 +34,7 @@
 </dd>
 
 <dt><strong>ℹ️ Você pode me ajudar?</strong></dt>
-<dd>Claro, posso te ajudar com as linguagens que conheço, se possível.</dd>
+<dd>Claro, caso tenha alguma dúvida sobre algum tema de meu conhecimento, não exite em perguntar. Adoro compartilhar meus aprendizados.</dd>
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 <dd>Fique a vontade para me chamar no LinkedIn.</dd>
